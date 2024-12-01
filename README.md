@@ -23,7 +23,7 @@ Your first step is to install the dependencies:
 bun install
 ```
 
-To run a solution, you need to run the corresponding file in the `solutions` directory. For example, to run the solution for day 1, you would run `bun run solutions/day1.ts`.
+To run a solution, you need to run the corresponding file in the `solutions` directory. For example, to run the solution for day 1, you would run:
 
 ```bash
 bun run solutions/day1.ts
@@ -33,28 +33,28 @@ bun run solutions/day1.ts
 
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
-| 1   | ❌ | ❌ |
-| 2   | ❌ | ❌ |
-| 3   | ❌ | ❌ |
-| 4   | ❌ | ❌ |
-| 5   | ❌ | ❌ |
-| 6   | ❌ | ❌ |
-| 7   | ❌ | ❌ |
-| 8   | ❌ | ❌ |
-| 9   | ❌ | ❌ |
-| 10  | ❌ | ❌ |
-| 11  | ❌ | ❌ |
-| 12  | ❌ | ❌ |
-| 13  | ❌ | ❌ |
-| 14  | ❌ | ❌ |
-| 15  | ❌ | ❌ |
-| 16  | ❌ | ❌ |
-| 17  | ❌ | ❌ |
-| 18  | ❌ | ❌ |
-| 19  | ❌ | ❌ |
-| 20  | ❌ | ❌ |
-| 21  | ❌ | ❌ |
-| 22  | ❌ | ❌ |
-| 23  | ❌ | ❌ |
-| 24  | ❌ | ❌ |
-| 25  | ❌ | ❌ |
+| 1   | ✅     | ✅     |
+| 2   | ❌     | ❌     |
+| 3   | ❌     | ❌     |
+| 4   | ❌     | ❌     |
+| 5   | ❌     | ❌     |
+| 6   | ❌     | ❌     |
+| 7   | ❌     | ❌     |
+| 8   | ❌     | ❌     |
+| 9   | ❌     | ❌     |
+| 10  | ❌     | ❌     |
+| 11  | ❌     | ❌     |
+| 12  | ❌     | ❌     |
+| 13  | ❌     | ❌     |
+| 14  | ❌     | ❌     |
+| 15  | ❌     | ❌     |
+| 16  | ❌     | ❌     |
+| 17  | ❌     | ❌     |
+| 18  | ❌     | ❌     |
+| 19  | ❌     | ❌     |
+| 20  | ❌     | ❌     |
+| 21  | ❌     | ❌     |
+| 22  | ❌     | ❌     |
+| 23  | ❌     | ❌     |
+| 24  | ❌     | ❌     |
+| 25  | ❌     | ❌     |

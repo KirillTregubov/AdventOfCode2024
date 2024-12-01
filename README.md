@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Advent of Code 2023</h1>
-  <p>A set of solutions for Advent of Code 2023 written in Rust.</p>
+  <h1>Advent of Code 2024</h1>
+  <p>A set of solutions for Advent of Code 2024 written in TypeScript using Bun.</p>
 </div>
 
 ### Preface

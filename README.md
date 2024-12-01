@@ -23,11 +23,13 @@ Your first step is to install the dependencies:
 bun install
 ```
 
-To run a solution, you need to run the corresponding file in the `solutions` directory. For example, to run the solution for day 1, you would run:
+To run a solution, you need to run the corresponding file in the `solutions` directory. For example, to run the solution for day 1 part 1, you would run:
 
 ```bash
-bun run solutions/day1.ts
+bun run solutions/day1_1.ts
 ```
+
+Please take a look at the files in the `solutions` directory for all the available solutions (excluding the `template.ts` file).
 
 ### Implemented Solutions
 

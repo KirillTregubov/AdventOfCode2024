@@ -3,11 +3,13 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "test-ts": "tsc -p ./adventofts/tsconfig.json"
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "prettier": "^3.4.1"
+    "prettier": "^3.4.1",
+    "type-testing": "^0.2.0"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

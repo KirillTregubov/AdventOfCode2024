@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "format": "prettier --write .",
-    "test-ts": "tsc -p ./adventofts/tsconfig.json"
+    "test-ts": "tsc -p adventofts/tsconfig.json"
   },
   "devDependencies": {
     "@types/bun": "latest",

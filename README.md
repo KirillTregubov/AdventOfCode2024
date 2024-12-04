@@ -40,9 +40,9 @@ To see all available solutions (excluding the `template.ts` file), take a look a
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 1   | ✅     | ✅     |
-| 2   | ❌     | ❌     |
-| 3   | ❌     | ❌     |
-| 4   | ❌     | ❌     |
+| 2   | ✅     | ✅     |
+| 3   | ✅     | ✅     |
+| 4   | ✅     | ✅     |
 | 5   | ❌     | ❌     |
 | 6   | ❌     | ❌     |
 | 7   | ❌     | ❌     |
@@ -86,9 +86,9 @@ To see all available solutions, take a look at the [`adventofts/solutions`](adve
 | Day | Part 1 |
 | --- | ------ |
 | 1   | ✅     |
-| 2   | ❌     |
-| 3   | ❌     |
-| 4   | ❌     |
+| 2   | ✅     |
+| 3   | ✅     |
+| 4   | ✅     |
 | 5   | ❌     |
 | 6   | ❌     |
 | 7   | ❌     |

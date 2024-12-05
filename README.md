@@ -43,7 +43,7 @@ To see all available solutions (excluding the `template.ts` file), take a look a
 | 2   | ✅     | ✅     |
 | 3   | ✅     | ✅     |
 | 4   | ✅     | ✅     |
-| 5   | ❌     | ❌     |
+| 5   | ✅     | ✅     |
 | 6   | ❌     | ❌     |
 | 7   | ❌     | ❌     |
 | 8   | ❌     | ❌     |
@@ -89,7 +89,7 @@ To see all available solutions, take a look at the [`adventofts/solutions`](adve
 | 2   | ✅     |
 | 3   | ✅     |
 | 4   | ✅     |
-| 5   | ❌     |
+| 5   | ✅     |
 | 6   | ❌     |
 | 7   | ❌     |
 | 8   | ❌     |
